@@ -1,0 +1,15 @@
+{
+  "name": "gocars.co",
+  "version": "0.0.0",
+  "authors": [
+    "mike james <m.l.james@me.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
