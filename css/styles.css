@@ -1,0 +1,25 @@
+.container {
+	margin: 0 auto;
+}
+.container p{
+	text-align: left;
+}
+.logo-center{
+	margin:0 auto;
+}
+.kiosks{
+	margin:auto;
+	width:33%;
+}
+.kiosks p{
+	margin-left: 25px;
+}
+.kiosks ul {
+	text-align: left;
+}
+
+@media screen and (max-width: 480px) { 
+	.kiosks{
+		width:80%;
+	}
+}
